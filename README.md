@@ -70,13 +70,14 @@
 <div align="center">
   <!-- GitHub Streak -->
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DayanaraMontero&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br><br>
+  
   <!-- General GitHub Stats -->
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=DayanaraMontero&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br><br>
+  
   <!-- Top Languages -->
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DayanaraMontero&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DayanaraMontero&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
+
 <br/><br/>
 <hr/>
 
