@@ -9,13 +9,11 @@
 
 <div align="center">
 
-🔭 I am a **higher technician in Multiplatform Applications Development**, currently studying **Web Applications Development**
+🔭 I am a **higher technician in Multiplatform Applications Development**
 
-🌱 Learning **backend development, ERP solutions (Odoo), and modern web technologies**
+🌱 Learning **backend development, and modern web technologies**
 
-💬 Ask me about **Java, MySQL, Odoo, or backend development**
-
-⚡ Fun fact: **I enjoy improving processes with code and exploring new tools**
+💬 Ask me about **Java, MySQL, web development... or anything**
 
 </div>
 
