@@ -35,18 +35,16 @@
 <br/>
 <div align="center">
     <!-- Frontend -->
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    ⚡ Frontend: <img src="https://skillicons.dev/icons?i=html,css,javascript" /><br>
     <!-- Backend -->
-    <img src="https://skillicons.dev/icons?i=java,csharp,php" />
+    🖥️ Backend: <img src="https://skillicons.dev/icons?i=java,csharp,php" /><br>
     <!-- ERP / Platforms -->
-    <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+    📦 ERP / Platforms: <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" /><br>
     <!-- Databases -->
-    <img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+    🗄️ Databases: <img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
     <!-- Tools / IDEs / Version control -->
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,intellij,webstorm" /><br>
+    🛠️ Tools/IDEs: <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,intellij,webstorm" /><br>
 </div>
-
 <br/>
 <hr/>
 
