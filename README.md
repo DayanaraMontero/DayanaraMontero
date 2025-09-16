@@ -4,26 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dayanara+Montero!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Spain 🇪🇸</h3>
-
+<h3 align="center">👩‍💻 A passionate software developer from Spain 🇪🇸</h3>
 <br/>
 
 <div align="center">
- 
- 🎓 I’m currently studying **Desarrollo de Aplicaciones Web (DAW)** and **I am higher technician in Multiplatform Applications Development**  
- 
- 🌱 I’m currently learning **backend development, ERP solutions (Odoo), and modern web technologies**  
- 
- 📌 Highlighted skills:  
- ✔ Database management and backend development  
- ✔ Git for version control  
- ✔ Practical experience with **Odoo** and ERP solutions  
- ✔ Clear and efficient technical documentation  
- 
+ 🎓 Studying **Desarrollo de Aplicaciones Web (DAW)**, with a degree in **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+
+ 🌱 Learning **backend development, ERP solutions (Odoo), and modern web technologies**  
+
  💬 Ask me about **Java, MySQL, Odoo, or backend development**  
- 
- ⚡ Fun fact: **I enjoy improving processes with code and exploring new tools for web development**  
- 
 </div>
 
 <!--
