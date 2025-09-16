@@ -37,15 +37,19 @@
     <!-- Frontend -->
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
     <!-- Backend -->
-    <img src="https://skillicons.dev/icons?i=java,csharp,php,odoo" /><br>
+    <img src="https://skillicons.dev/icons?i=java,csharp,php" />
+    <!-- ERP / Platforms -->
+    <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
     <!-- Databases -->
-    <img src="https://skillicons.dev/icons?i=mysql,oracle,mariadb,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     <!-- Tools / IDEs / Version control -->
     <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,intellij,webstorm" /><br>
 </div>
 
 <br/>
 <hr/>
+
 
 
 <!--
