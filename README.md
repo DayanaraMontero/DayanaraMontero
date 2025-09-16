@@ -8,11 +8,15 @@
 <br/>
 
 <div align="center">
- 🎓 Studying **Desarrollo de Aplicaciones Web (DAW)**, with a degree in **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 
- 🌱 Learning **backend development, ERP solutions (Odoo), and modern web technologies**  
+🔭 I am a **higher technician in Multiplatform Applications Development**, currently studying **Web Applications Development**
 
- 💬 Ask me about **Java, MySQL, Odoo, or backend development**  
+🌱 Learning **backend development, ERP solutions (Odoo), and modern web technologies**
+
+💬 Ask me about **Java, MySQL, Odoo, or backend development**
+
+⚡ Fun fact: **I enjoy improving processes with code and exploring new tools**
+
 </div>
 
 <!--
