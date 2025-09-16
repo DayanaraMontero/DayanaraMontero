@@ -62,6 +62,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DayanaraMontero/DayanaraMontero/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
