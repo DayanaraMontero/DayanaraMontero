@@ -29,6 +29,25 @@
   </a>
 </div>
 
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <!-- Frontend -->
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    <!-- Backend -->
+    <img src="https://skillicons.dev/icons?i=java,csharp,php,odoo" /><br>
+    <!-- Databases -->
+    <img src="https://skillicons.dev/icons?i=mysql,oracle,mariadb,mongodb" /><br>
+    <!-- Tools / IDEs / Version control -->
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,intellij,webstorm" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
 <!--
 **DayanaraMontero/DayanaraMontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
