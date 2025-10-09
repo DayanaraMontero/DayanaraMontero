@@ -32,7 +32,7 @@ I'm particularly interested in <strong>backend development, data-driven design, 
 <a href="https://github.com/DayanaraMontero/voley-management" target="_blank">
   <img src="https://raw.githubusercontent.com/DayanaraMontero/DayanaraMontero/main/assets/app-voley.png" 
        alt="VolleyStats VNL Screenshot" 
-       style="width:600px; max-width:100%; border-radius:10px; object-fit:cover;"/>
+       style="width:600px; max-width:100%; border-radius:20px; object-fit:cover;"/>
 </a>
 
 ### 🏐 [VolleyStats VNL](https://github.com/DayanaraMontero/voley-management)
@@ -50,7 +50,7 @@ Permite registrar equipos, jugadoras, estadísticas y generar rankings personali
 <a href="https://github.com/DayanaraMontero/dental-clinic-management.git" target="_blank">
   <img src="https://raw.githubusercontent.com/DayanaraMontero/DayanaraMontero/main/assets/app-clinica.png" 
        alt="Dental Clinic Screenshot" 
-       style="width:600px; max-width:100%; border-radius:10px; object-fit:cover;"/>
+       style="width:600px; max-width:100%; border-radius:20px; object-fit:cover;"/>
 </a>
 
 ### 🏥 [DentalCare Manager](https://github.com/DayanaraMontero/dental-clinic-management.git)
