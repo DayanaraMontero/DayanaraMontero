@@ -4,18 +4,26 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dayanara+Montero!;" />
 </h1>
 
-<h3 align="center">👩‍💻 A passionate software developer from Spain</h3>
+<h3 align="center">👩‍💻 Passionate software developer from Spain</h3>
 <br/>
 
 <div align="center">
 
 🔭 I am a **higher technician in Multiplatform Applications Development**
 
-🌱 Learning **backend development, and modern web technologies**
+🌱 Currently learning **backend development and Modern Web Technologies**
 
-💬 Ask me about **Java, MySQL, web development... or anything**
+💬 Ask me about **Java, MySQL, or general web development**
 
 </div>
+
+---
+
+## About Me
+
+I'm a software developer who enjoys transforming ideas into solid, efficient applications.
+I'm particularly interested in **backend development**, **data-driven design**, and writing **clean, maintainable code**. I see every project as an opportunity to learn from refining logic to mastering new frameworks
+
 
 <div align="center"> 
   <a href="mailto:dayanaramontero2004@gmail.com">
