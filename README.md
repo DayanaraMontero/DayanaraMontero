@@ -100,7 +100,6 @@ Gestiona pacientes, citas, tratamientos y pagos desde una interfaz moderna e int
         <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"><br>PostgreSQL
       </td>
       <td align="center">
-        <td align="center">
         <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/250px-HeidiSQL_logo_image.png" alt="Heidi SQL"><br>Heidi SQL
       </td>
       </td>
