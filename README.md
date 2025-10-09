@@ -22,8 +22,8 @@
 ## About Me
 
 <p>
-    I'm a software developer who enjoys transforming ideas into solid, efficient applications.
-    I'm particularly interested in <strong>backend development, data-driven design, and writing clean, maintainable code.</strong> I see every project as an opportunity to learn from refining logic to mastering      new frameworks.
+    I'm a software developer who enjoys transforming ideas into solid, efficient applications.<br><br>
+    I'm particularly interested in <strong>backend development, data-driven design, and writing clean, maintainable code.</strong><br><br> I see every project as an opportunity to learn from refining logic to        mastering new frameworks.
 </p>    
     
 ---
