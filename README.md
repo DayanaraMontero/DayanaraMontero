@@ -22,8 +22,14 @@
 ## About Me
 
 I'm a software developer who enjoys transforming ideas into solid, efficient applications.
-I'm particularly interested in **backend development**, **data-driven design**, and writing **clean, maintainable code**. I see every project as an opportunity to learn from refining logic to mastering new frameworks
+I'm particularly interested in **backend development**, **data-driven design**, and writing **clean, maintainable code**. I see every project as an opportunity to learn from refining logic to mastering new frameworks.
 
+---
+
+## Featured Projects
+
+### 🏐 [**VolleyStats VNL**](https://github.com/DayanaraMontero/voley-management.git)
+Aplicación Java realizada para la gestión de equipos, jugadoras y partidos de voleibol. Se conecta a **PostgreSQL** mediante **JDBC**, utilizando el patrón **DAO** y permite registrar estadísticas, opiniones de fans y generar rankings de jugadoras más destacadas.
 
 <div align="center"> 
   <a href="mailto:dayanaramontero2004@gmail.com">
