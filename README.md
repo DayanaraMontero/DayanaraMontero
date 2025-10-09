@@ -27,9 +27,14 @@ I'm particularly interested in **backend development**, **data-driven design**, 
 ---
 
 ## Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DayanaraMontero/DayanaraMontero/main/assets/app.png" width="600" alt="Volleyball Nations League App Screenshot"/>
+</p>
 
 ### 🏐 [**VolleyStats VNL**](https://github.com/DayanaraMontero/voley-management.git)
-Aplicación Java realizada para la gestión de equipos, jugadoras y partidos de voleibol. Se conecta a **PostgreSQL** mediante **JDBC**, utilizando el patrón **DAO** y permite registrar estadísticas, opiniones de fans y generar rankings de jugadoras más destacadas.
+Aplicación Java realizada para la gestión de equipos, jugadoras, partidos y estadísticas. Conectada a **PostgreSQL** mediante **JDBC** e implementada con el patrón **DAO**, incluye funcionalidades para registrar opiniones de fans y generar rankings de jugadoras destacadas.
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/DayanaraMontero/voley-management)
 
 <div align="center"> 
   <a href="mailto:dayanaramontero2004@gmail.com">
